@@ -90,7 +90,7 @@ Dilaksan Thirugnanaselvam - AI Engineer
 ## 📫 Contact
 Email: thirudilak131@gmail.com
 
-LinkedIn: [Dilaksan Thirugnanaselvam][https://www.linkedin.com/feed/update/urn:li:activity:7239310890854928384/]
+LinkedIn: [Dilaksan Thirugnanaselvam](https://www.linkedin.com/in/dilaksan-thirugnanaselvam-65641b262/)
 
 Phone: +94-0788702104
 
