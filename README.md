@@ -84,10 +84,10 @@ If you'd like to contribute to this project, feel free to fork the repository an
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Dilaksan Thirugnanaselvam - AI Engineer
 
-##📫 Contact
+## 📫 Contact
 Email: thirudilak131@gmail.com
 LinkedIn: Dilaksan Thirugnanaselvam
 Phone: +94-0788702104
