@@ -2,6 +2,10 @@
 
 This project builds and trains a simple **Artificial Neural Network (ANN)** model to predict the price range of mobile phones based on their specifications. The prediction is binary, classifying phones into either the **low** or **high** price range. The project uses **TensorFlow** for building the ANN and **Streamlit** for the user interface.
 
+## 📷 Screenshots
+![Screenshot 2024-09-11 234623](https://github.com/user-attachments/assets/fa2bc30b-93a9-49a3-ac34-a228c6b0deaa)
+
+
 ## 📋 Table of Contents
 - [🔍 Overview](#overview)
 - [📊 Dataset](#dataset)
